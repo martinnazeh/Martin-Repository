@@ -1,2 +1,2 @@
 # Martin-Repository
-## Class: J1.
+## Class: J1
